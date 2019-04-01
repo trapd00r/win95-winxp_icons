@@ -1,4 +1,4 @@
-# vim95-winxp_icons
+# win95-winxp_icons
 
 Here's all of the default icons shipped with
 - Windows 95
